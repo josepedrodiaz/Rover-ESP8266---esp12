@@ -1,7 +1,6 @@
 # ESP8266-12 based Rover
 
-Implementa la posibilidad de dirigir un rover basado en llamadas HTTP
-
+Implements the possibility of driving a car through a REST API
 
 ## Componentes
 * Esp8266-12 
