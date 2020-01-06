@@ -17,7 +17,7 @@ Implements the possibility of driving a diy rover through a REST API
 /frena
 
 
-Es necesario configurar IP y puerto al que responde el robot, el original responde a 192.168.2.144:444
+@todo: view asigned IP
 
 
 ## To do
